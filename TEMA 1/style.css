@@ -1,0 +1,15 @@
+a{
+	text-decoration: none;
+	text-align: justify;
+}
+
+p{
+	font-family: initial;
+	font-size: initial;
+}
+
+aside {
+	display: inline-flex;
+	align-content: space-between;
+	padding: 50px;
+}
