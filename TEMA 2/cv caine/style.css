@@ -1,0 +1,71 @@
+body {
+	background: lightgoldenrodyellow;
+	font-size: 20px;
+}
+
+.meniu {
+	list-style-type: none;
+	padding: 80px;
+}
+
+a:link { 
+	text-decoration: none; 
+	color: black;
+}
+
+a:hover {
+  color: blueviolet;
+}
+
+.vl {
+	border-left: 2px solid #FFD700;
+	height: 800px;
+	display: inline-block;
+	position: absolute;
+	left: 25%;
+	top: 3%;
+}
+
+img {
+	width: 300px;
+	display: inline;
+	position: absolute;
+	left: 60%;
+	top: 10%;
+	clip-path: circle();
+}
+
+h1 {
+	font-size: 30px;
+	position: relative;
+	left: 26%;
+	width: 200px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 20px;
+}
+
+.firstcolumn {
+	position: relative;
+	float: left;
+	left: 24%;
+	line-height: 50px;
+}
+
+.secondcolumn {
+	position: relative;
+	float: left;
+	left: 25%;
+	line-height: 50px;
+}
+
+
+p{
+	position: absolute;
+	top: 72%;
+	margin: 10px;
+	left: 25%;
+	padding-right: 120px;
+}
